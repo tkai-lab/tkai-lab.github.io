@@ -21,22 +21,22 @@ p{color:Black !important;}
 
 * **Preferred Experience**: experimental research experience such as, but not limited to Fluency in at least one programming language C/C++ or python, Good working knowledge about Artificial intelligence and Reinforcement learning, Linguistics, formal language theory etc.
 
-# Instructions for Undergraduate Students
+## Instructions for Undergraduate Students
 * Please refer to instructions highlighted above
 * Interested in working on relevant topics highlighted in our lab’s webpage
 * Self-motivated and eager to explore challenging problems in NLP and AI.
 * Ideally have some background in AI/NLP and working knowledge of linear algebra and stats
 
-# How to work with me?
+## How to work with me?
 * Ideally you will/should consider starting as an **volunteer** and work with me for some-time. In future there with possibility of funding based on performance. Please remember evaluation is based on research conducted in any given semester and not on line of codes you have written.
 * When you volunteer, I would expect you to work for minimal 5-10 hours, however given your obligations are minimal, one can adjust involvement based on schedule and current learning curve. 
 * Second approach is to take course credits or independent study and formally work on some challenging problems.
 
-# Instructions for Graduate Students seeking me as an advisor
+## Instructions for Graduate Students seeking me as an advisor
 * Graduate students should satisfy requirements highlighted in the main and under UG Student sections.
 * Graduate students are required to add additional hours and work on thesis and/or research article with me.
 
-# Things not to do
+## Things not to do
 * Asking me about funding without even working with me or taking my courses.
 * Not looking at my papers and website, and sending me an email your work is great in AI/NLP/CV and I wish to solve everything. Such emails won’t be answered. This clearly shows you did not invest any time in reading my work/papers.
 * If you wish to work with me, then your email should have following points
