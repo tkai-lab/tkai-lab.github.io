@@ -23,7 +23,7 @@ permalink: /team/
 </div>
 </ul>
 
-<!-- Researchers -->
+<!-- Researchers 
 <h2 class="mb-3"><a id="researcher"></a>Researchers</h2>
 
 {% assign members = site.posts | where: 'category', 'postdoc' | sort: 'date' %}
@@ -41,11 +41,11 @@ permalink: /team/
 {% endfor %}
 </div>
 </ul>
+-->
+Students 
+<h2 class="mb-3"><a id="student"></a>PHD Students</h2>
 
-<!-- Students -->
-<h2 class="mb-3"><a id="student"></a>PhD Students</h2>
-
-{% assign members = site.posts | where: 'category', 'phd-student' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'phd-students' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -61,7 +61,27 @@ permalink: /team/
 </div>
 </ul>
 
-<!-- Alumni -->
+
+
+<h2 class="mb-3"><a id="student"></a>Master Students</h2>
+
+{% assign members = site.posts | where: 'category', 'master-students' | sort: 'date' %}
+<ul class="list-unstyled">
+<div class="row">
+{% for member in members%}
+    {% assign ncols = 2 %}
+    {% assign i = forloop.index0 | modulo: ncols %}
+        <div class="col">
+            {%- include team_member.html -%}
+        </div>
+    {% if i == 1 %}
+        </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>
+</ul>
+
+<!-- Alumni 
 <h2 class="mb-3"><a id="alumni"></a>Alumni</h2>
 
 {% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
@@ -78,4 +98,4 @@ permalink: /team/
     {% endif %}
 {% endfor %}
 </div>
-</ul>
+</ul> -->
