@@ -1,14 +1,14 @@
 ---
-title: Students Instructions
+title: Important instructions for students looking to join my lab
 layout: page
-permalink: /Students/
+permalink: /Student_Instructions/
 ---
 <style>
 H1{color:Blue !important;}
 H2{color:DarkOrange !important;}
 p{color:Black !important;}
 </style>
-# The Trustworthy Knowledge-driven Artificial Intelligence Laboratory (TKAI)  is seeking highly-motivated Ph.D. student to conduct multidisciplinary research on the problems such as:
+## The Trustworthy Knowledge-driven Artificial Intelligence Laboratory (TKAI)  is seeking highly-motivated Ph.D. student to conduct multidisciplinary research on the problems such as:
 
 * Encoding knowledge graph with Artificial neural network to construct safe, robust Artificial general intelligence system (AGI) that can be deployed to work on high-risk domains such as medicine, finance. This field is also known as **neuro-symbolic AI**, where goal is to build trustworthy AI system by encoding interpretable knowledge
 * Design mathematical foundation and derive **theoretical limits** for these models to work in polynomial time
@@ -23,29 +23,35 @@ p{color:Black !important;}
 
 # Instructions for Undergraduate Students
 * Please refer to instructions highlighted above
-* Interest in working on relevant topics highlighted in our lab’s webpage
+* Interested in working on relevant topics highlighted in our lab’s webpage
 * Self-motivated and eager to explore challenging problems in NLP and AI.
-* Ideally some background in AI/NLP and working knowledge of linear algebra and stats
+* Ideally have some background in AI/NLP and working knowledge of linear algebra and stats
 
 # How to work with me?
-* Ideally you will start as **volunteer** with possibility of funding based on performance. Please remember evaluation is based on research conducted in any given semester and not on line of codes you wrote.
+* Ideally you will/should consider starting as an **volunteer** and work with me for some-time. In future there with possibility of funding based on performance. Please remember evaluation is based on research conducted in any given semester and not on line of codes you have written.
 * When you volunteer, I would expect you to work for minimal 5-10 hours, however given your obligations are minimal, one can adjust involvement based on schedule and current learning curve. 
 * Second approach is to take course credits or independent study and formally work on some challenging problems.
 
 # Instructions for Graduate Students seeking me as an advisor
-* Graduate students should satisfy requirements highlighted in the main and under UG Students sections.
+* Graduate students should satisfy requirements highlighted in the main and under UG Student sections.
 * Graduate students are required to add additional hours and work on thesis and/or research article with me.
 
 # Things not to do
 * Asking me about funding without even working with me or taking my courses.
 * Not looking at my papers and website, and sending me an email your work is great in AI/NLP/CV and I wish to solve everything. Such emails won’t be answered. This clearly shows you did not invest any time in reading my work/papers.
 * If you wish to work with me, then your email should have following points
- 1.What: What are the problems you wish to explore and how it aligns with our lab’s agenda/interest.
- 2. How: How your knowledge/experience would be beneficial for the group. 
+ 1. **What**: What are the problems you wish to explore and how it aligns with our lab’s agenda/interest.
+ 2. **How**: How your knowledge/experience would be beneficial for the group. 
+ 3. Most important thing to remember is I can guide you, but I won’t be doing entire job for you. 
 
-## Most important thing to remember is I can guide you, but I won’t be doing entire job for you. 
 ## If you satisfy all criteria and wish to work on challenging topics
-* Please send me an email(**remember to mention topic**) with your CV and other relevant details.       
+
+* Please send me an email(**remember to mention topic**) with your CV and other relevant details.
+
+## Interested in working on NLP but do not have prior experience.
+* At TKAI we believe each student is special and offer different prespective of solving any given problem.
+* If student invest time in understanding my work, allocates time to understand NLP and then decides to approach me with interests, then exceptions can be made.
+     
 
 
 
